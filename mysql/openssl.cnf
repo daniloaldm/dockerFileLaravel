@@ -1,10 +1,4 @@
 openssl_conf = default_conf
-
-
-
-
-
-
 #
 # OpenSSL example configuration file.
 # This is mostly being used for generation of certificate requests.
