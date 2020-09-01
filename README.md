@@ -38,7 +38,6 @@ Entre no repositório clonado:
 
 Execute: 
 
-OBS: Configure o arquivo .env de acordo com os seus dados, entretanto no repositório https://github.com/daniloaldm/api-laravel deixei o .env fora do .gitignore e já de acordo com o docker, logo não há necessidade executar esse comando.
 > sudo cp .env.example .env
 
 Execute também
